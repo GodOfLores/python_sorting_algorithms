@@ -5,7 +5,7 @@ The code snippets provided should serve as examples of how various sorting algor
 Some search algorithms are implemented suboptimal, e.g. quicksort has an unnecessarily high memory complexity
 because it does not work in-place.
 
-## provided algorithm <h2<
+## provided algorithm <h2>
 -quicksort
 -mergesort
 -radixsort
